@@ -5,7 +5,7 @@
 </p>
 <br>
 <h1> Hi there, I'm Khadija! 👋 </h1>
-# 💫 About Me:
+<h1>💫 About Me:</h1>
 🔭 As a seasoned backend Java developer, I have a wealth of experience in designing and implementing robust and scalable solutions.<br>💡 I'm passionate about leveraging the power of Java to create efficient and high-performing applications.<br>🌐 I have a good background in backend development, specializing in frameworks like Spring Boot and databases such as PostgreSQL.<br>👯 I enjoy collaborating with other developers and contributing to open-source projects that push the boundaries of Java development.<br>🤝 I'm always open to learning from others and seeking help when it comes to tackling complex architectural challenges or optimizing performance.<br>🌱 I believe in continuous learning, and I'm currently diving deep into topics like reactive programming and cloud-native development.<br>💬 Feel free to ask me about design patterns, RESTful API development, or any other aspect of backend Java development.<br>⚡️ Fun fact: I love kickboxing for fitness, diving into history to explore different periods, experimenting with cooking recipes, learning new languages to broaden my horizons, and embracing the challenge of solving mathematical problems.
 
 ![image](https://github.com/xadidja03/xadidja03/assets/116426512/941ffcf3-5ff6-4a3f-9b54-eb80e5812368)
